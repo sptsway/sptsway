@@ -1,5 +1,5 @@
 ## Hello there 👋🏻
-**I am Swaraj Pradhan, and I like computers.**
+**I am Swaraj, and I like computers.**
 ---
 **How to reach out to me?**
 - Email: jarawsp@gmail.com
